@@ -11,15 +11,18 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-# %%
+# %% Code
 
 # Set a variable
 a = 34
 
 # compute a second value
-b = 2 * a + 69
+b = 4 * a + 69
+
+# another value
+c = 75+b
 
 # report
 
-print(b)
+print(c)
 
