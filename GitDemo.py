@@ -26,7 +26,7 @@ D =  5 + c
 
 E = a + B + c
 
-
+E = E + 4*B 
 # report
 
 print(c)
