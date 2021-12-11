@@ -20,7 +20,12 @@ a = 34
 b = 4 * a + 69
 
 # another value
-c = 75+b
+A = a + b
+
+D =  5 + c
+
+E = a + B + c
+
 
 # report
 
